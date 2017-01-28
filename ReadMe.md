@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s website
+## Ben Li;s website
 
-See [kbroman.org](http://kbroman.org).
+The template is forked from [kbroman.org](http://kbroman.org).
 
 ---
 
