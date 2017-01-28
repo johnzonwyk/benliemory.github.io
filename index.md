@@ -1,8 +1,9 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Ben Li
+description: Ben Li is currently a Ph.D. candidate in the Department of Biostatistics and Bioinformatics at Emory University 
+keywords: Ben Li, Emory,  Bioinformatics, Bayesian Statistics, Machine Learning, NGS
+
 ---
 
 <div class="navbar">
