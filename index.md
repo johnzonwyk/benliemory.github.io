@@ -15,6 +15,8 @@ keywords: Ben Li, Emory,  Bioinformatics, Bayesian Statistics, Machine Learning,
   </div>
 </div>
 
+<!--
+
 <table class="wide">
 <tr>
   <td class="left">
@@ -50,3 +52,5 @@ keywords: Ben Li, Emory,  Bioinformatics, Bayesian Statistics, Machine Learning,
       </ul>
   </div>
 </div>
+
+-->
