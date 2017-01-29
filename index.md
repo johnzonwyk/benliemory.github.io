@@ -36,7 +36,7 @@ Moreover, I have worked together with collaborators of different backgrounds and
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>ben</code><b>I</b><code>.</code><b>don't</b><code>li</code><b>@emory</b><code>emory</code><b>spam!
+            Email: <code>ben</code><b>I</b><code>.</code><b>don't</b><code>li</code><b>emory</b><code>@emory</code><b>spam!
             </b><code>.</code><b>So</b><code>edu</code><b>please</b><br/>
             </div>
         </div>
