@@ -15,11 +15,41 @@ keywords: Ben Li, Emory,  Bioinformatics, Bayesian Statistics, Machine Learning,
   </div>
 </div>
 
+Ben Li 
 <p>
-I am currently a Ph.D. candidate in the Department of Biostatistics and Bioinformatics at Emory University and will complete my degree in May 2017. My dissertation is under the supervision of Professors Zhaohui Steve Qin and Hao Wu. I respectfully submit this letter of application, for I believe my research experiences and teaching commitment make me well qualified to meet the requirements of your program.
+Ben Li is currently a Ph.D. candidate in the Department of Biostatistics and Bioinformatics at Emory University and will complete my degree in May 2017. 
 My research mainly focuses on the development of statistical and computational methods for high- throughput genetics and genomics data. During my Ph.D. studies, I have extensive research experiences on developing novel statistical and computational methods for next generation sequencing (NGS) data. I have published first author (co-first author) methodological papers on hierarchical models incorporating historical data to detect differentially expressed gene on microarray data (Bioinformatics, 2016), detecting differentially methylated regions on 450K methylation array and bisulfite sequencing data (Statistics in Biosciences, 2016), novel supervised learning approach to predict TF–DNA interaction using bisulfite sequencing methylation data (Nucleic acids research, 2015). I am currently working on developing new statistical methods for detecting differentially expressed genes without replicates for both microarray and RNA-seq data.
 Moreover, I have worked together with collaborators of different backgrounds and created computational tools to help collaborators analyze different types of high-throughput -omics data more efficiently. For example, I developed binstrain for Chlamydia trachomatis Strains in Single and Mixed Infection Clinical Samples (PloS one, 2014) and for detecting Staphylococcus aureus subtypes from metagenome shotgun sequence data (PeerJ, 2016). My other collaborative projects include analyses of bisulfite sequencing data (Nucleic acids research, 2016), Hi-C data (Statistics in Biosciences, 2016), single cell RNA-seq data, and ChIP-seq data. At Emory, I also provided statistical consulting services to assist principal investigators from Winship Cancer Institute and Yerkes National Primate Research Center to design experiments and analyze high-throughput -omics data.
 </p>
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            Karl Broman<br/>
+            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
+            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
+            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
+            425 Henry Mall<br/>
+            Madison, Wisconsin 53706<br/>
+            USA<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
+            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
+            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Phone: 608-262-4633
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/pics/karl_2014-03-30.jpg">
+            <img src="../assets/pics/karl_2014-03-30_small.jpg"
+                  title="Karl Broman" alt="Karl Broman"/></a>
+        </div>
+    </div>
+</div>
 
 
 
