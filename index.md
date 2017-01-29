@@ -42,9 +42,8 @@ Moreover, I have worked together with collaborators of different backgrounds and
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Ben Li" alt="Ben Li"/></a>
+            <img src="../assets/pics/citations.jpg"
+                  title="Ben Li" alt="Ben Li"/>
         </div>
     </div>
 </div>
