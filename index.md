@@ -9,7 +9,7 @@ keywords: Ben Li, Emory,  Bioinformatics, Bayesian Statistics, Machine Learning,
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/ben_li_CV.pdf">CV</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Ben_Li_CV.pdf">CV</a></li>
           <li><a href="https://github.com/benliemory">github</a></li>
       </ul>
   </div>
