@@ -20,7 +20,7 @@ keywords: Ben Li, Emory,  Bioinformatics, Bayesian Statistics, Machine Learning,
 <h4><a name="About"></a>About</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span12">
         
 Ben Li is a Ph.D. candidate in the Department of Biostatistics and Bioinformatics at Emory University. <br/>
 His research mainly focuses on the development of statistical and computational methods for high-throughput genetics and genomics data. During his Ph.D. studies, he has published methodological papers on hierarchical models incorporating historical data to detect differentially expressed gene on microarray data <em>(Bioinformatics, 2016)</em>, detecting differentially methylated regions on 450K methylation array and bisulfite sequencing data (Statistics in Biosciences, 2016), novel supervised learning approach to predict TF–DNA interaction using bisulfite sequencing methylation data (Nucleic acids research, 2015). I am currently working on developing new statistical methods for detecting differentially expressed genes without replicates for both microarray and RNA-seq data.
