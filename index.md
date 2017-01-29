@@ -15,12 +15,11 @@ keywords: Ben Li, Emory,  Bioinformatics, Bayesian Statistics, Machine Learning,
   </div>
 </div>
 
-Ben Li 
-<p>
-Ben Li is currently a Ph.D. candidate in the Department of Biostatistics and Bioinformatics at Emory University and will complete my degree in May 2017. 
-My research mainly focuses on the development of statistical and computational methods for high- throughput genetics and genomics data. During my Ph.D. studies, I have extensive research experiences on developing novel statistical and computational methods for next generation sequencing (NGS) data. I have published first author (co-first author) methodological papers on hierarchical models incorporating historical data to detect differentially expressed gene on microarray data (Bioinformatics, 2016), detecting differentially methylated regions on 450K methylation array and bisulfite sequencing data (Statistics in Biosciences, 2016), novel supervised learning approach to predict TF–DNA interaction using bisulfite sequencing methylation data (Nucleic acids research, 2015). I am currently working on developing new statistical methods for detecting differentially expressed genes without replicates for both microarray and RNA-seq data.
+
+Ben Li is a Ph.D. candidate in the Department of Biostatistics and Bioinformatics at Emory University. <br/>
+His research mainly focuses on the development of statistical and computational methods for high-throughput genetics and genomics data. During his Ph.D. studies, he has published methodological papers on hierarchical models incorporating historical data to detect differentially expressed gene on microarray data <em>(Bioinformatics, 2016)<em/>, detecting differentially methylated regions on 450K methylation array and bisulfite sequencing data (Statistics in Biosciences, 2016), novel supervised learning approach to predict TF–DNA interaction using bisulfite sequencing methylation data (Nucleic acids research, 2015). I am currently working on developing new statistical methods for detecting differentially expressed genes without replicates for both microarray and RNA-seq data.
 Moreover, I have worked together with collaborators of different backgrounds and created computational tools to help collaborators analyze different types of high-throughput -omics data more efficiently. For example, I developed binstrain for Chlamydia trachomatis Strains in Single and Mixed Infection Clinical Samples (PloS one, 2014) and for detecting Staphylococcus aureus subtypes from metagenome shotgun sequence data (PeerJ, 2016). My other collaborative projects include analyses of bisulfite sequencing data (Nucleic acids research, 2016), Hi-C data (Statistics in Biosciences, 2016), single cell RNA-seq data, and ChIP-seq data. At Emory, I also provided statistical consulting services to assist principal investigators from Winship Cancer Institute and Yerkes National Primate Research Center to design experiments and analyze high-throughput -omics data.
-</p>
+
 
 <div class="container">
 <h4><a name="Contact"></a>Contact</h4>
