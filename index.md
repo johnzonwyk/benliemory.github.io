@@ -23,30 +23,27 @@ Moreover, I have worked together with collaborators of different backgrounds and
 </p>
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
+            Ben Li<br/>
+            <a href="https://www.sph.emory.edu/departments/bios/">Department of Biostatistics and Bioinformatics</a><br/>
+            <a href="http://www.emory.edu/home/index.html">Emory University</a><br/>
+            1518 Clifton Road<br/>
+            Atlanta, Georgia 30322<br/>
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>ben</code><b>I</b><code>.</code><b>don't</b><code>li</code><b>emory</b><code>emory</code><b>spam!
+            </b><code>.</code><b>So</b><code>edu</code><b>please</b><br/>
             </div>
         </div>
 
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
             <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+                  title="Ben Li" alt="Ben Li"/></a>
         </div>
     </div>
 </div>
