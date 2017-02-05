@@ -24,8 +24,8 @@ description: Ben Li's Publications
 
 ### <a name="articles"></a>Peer-reviewed Journal Articles
 
-* Co-first author
-Aly SS, Zhao J, Li B, Jiang J. (2014) Reliability of environmental sampling culture results using the negative binomial intraclass correlation coefficient. Springerplus. 3:40.
+\* Co-first author  
+Aly SS, Zhao J, Li B, Jiang J. (2014) Reliability of environmental sampling culture results using the negative binomial intraclass correlation coefficient. Springerplus. 3:40.  
 Joseph SJ, Li B, Ghonasgi T, Haase CP, Qin ZS, Dean D, Read TD. (2014) Direct amplification, sequencing and profiling of Chlamydia trachomatis strains in single and mixed infection clinical samples. PLoS ONE. 9(6).
 Xu T*, Li B*, Zhao M, Szulwach KE, Street RC, Lin L, Yao B, Zhang F, Jin P, Wu H, Qin ZS. (2015) Base-resolution methylation patterns accurately predict transcription factor bindings in vivo. Nucleic Acids Research. 43(5):2757-66.
 Wu H, Xu T, Feng H, Chen L, Li B, Yao B, Qin Z, Jin P, Conneely KN. (2015) Detection of differentially methylated regions from whole-genome bisulfite sequencing data without replicates. Nucleic Acids Res. 43(21):e141.
