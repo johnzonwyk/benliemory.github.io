@@ -1,6 +1,6 @@
 ---
 layout: page
-title: software
+title: Software
 description: Ben Li's software
 ---
 
@@ -18,15 +18,13 @@ description: Ben Li's software
 
 ---
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+#### <a name="IPBT"></a>[IPBT](https://github.com/benliemory/IPBT)
 
-An [R](http://www.r-project.org/) package with tools for analyzing QTL experiments.
+**I**nformative **P**rior **B**ayesian **T**est
 
-To receive announcements about updates to R/qtl, join the
-Google group, [R/qtl announcements](http://groups.google.com/group/Rqtl-announce).
+R package is provided in the IPBT_R_package folder. All the IPBT priors are built-in features in IPBT package.
 
-To participate in discussion about the use of R/qtl, join the
-Google group, [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+All the IPBT priors are also summarized in the Informative_Priors folder in excel sheets. Although only variance is used for IPBT priors, we also provide the historical means for possible use.
 
 ---
 
