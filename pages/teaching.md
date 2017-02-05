@@ -1,10 +1,9 @@
-<!--
 ---
 layout: page
-title: teaching
-description: Karl Broman's teaching
+title: Teaching
+description: Ben Li's teaching experience
 ---
-
+<!--
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -15,8 +14,21 @@ description: Karl Broman's teaching
         </ul>
     </div>
 </div>
+-->
+
+## Emory University
+### Teaching Associate/Guest Lecturer
+- BIOS 731: Advanced Statistical Computing Fall 2016
+- BIOS 511: Statistical Inference Spring 2015
+- BIOS 731: Advanced Statistical Computing Fall 2014
+- BIOS 510: Introduction to Probability Theory Fall 2014  
+
+### Teaching Assistant
+- BIOS 591: Biostatistics Methods II Spring 2014
+- BIOS 500: Statistical Methods I Fall 2013
 
 
+<!--
 ### <a name="current"></a>Current courses
 
 #### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2015)
