@@ -42,7 +42,7 @@ Methylphet adopts a two-step method to predict transcription factor-DNA interact
 
 #### <a name="BinStrain"></a>[BinStrain](https://github.com/benliemory/BinStrain)
 
-Various examples of [D3](http://d3js.org)-based interactive graphs.
+Statistical modeling for SNP based genotyping of mixed bacterial strains
 
 ---
 
