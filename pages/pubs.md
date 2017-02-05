@@ -20,7 +20,7 @@ description: Ben Li's Publications
 -->
 
 
-** Please check my <a href="https://scholar.google.com/citations?user=nDSGBakAAAAJ&hl=en">google scholar</a> for most updated publications **  
+**Please check my <a href="https://scholar.google.com/citations?user=nDSGBakAAAAJ&hl=en">google scholar profile</a> for most updated publications**  
 
 ## <a name="articles"></a>Peer-reviewed Journal Articles
 
