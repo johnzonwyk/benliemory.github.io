@@ -1,17 +1,19 @@
-<!--
+
 
 ---
 layout: page
 title: software
-description: Karl Broman's software
+description: Ben Li's software
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://github.com/kbroman">github</a></li>
-            <li><a href="http://www.rqtl.org">R/qtl</a></li>
-            <li><a href="http://kbroman.org/qtlcharts">R/qtlcharts</a></li>
+            <li><a href="https://github.com/benliemory">Github</a></li>
+            <li><a href="https://github.com/benliemory/IPBT">IPBT</a></li>
+            <li><a href="https://github.com/benliemory/adaptiveHM">adaptiveHM</a></li>
+            <li><a href="https://github.com/benliemory/Methylphet">Methylphet</a></li>
+            <li><a href="https://github.com/benliemory/BinStrain">BinStrain</a></li>
         </ul>
     </div>
 </div>
