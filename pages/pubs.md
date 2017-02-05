@@ -22,7 +22,7 @@ description: Ben Li's Publications
 
 
 
-### <a name="articles"></a>Peer-reviewed Journal Articles
+## <a name="articles"></a>Peer-reviewed Journal Articles
 
 \* Co-first author  
 
@@ -44,7 +44,7 @@ Aly SS, Zhao J, **Li B**, Jiang J. (2014) Reliability of environmental sampling 
 
 
 
-#### In preparation
+## In preparation
 
 **Li B**, Qin ZS, Wu H. A novel statistical method for differential expression analysis of single cell RNA-Seq data.  
 
