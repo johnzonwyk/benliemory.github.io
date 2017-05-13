@@ -1,4 +1,4 @@
-## Ben Li's website
+## Yikai Wang's website
 
 The template is forked from [kbroman.org](http://kbroman.org).
 
